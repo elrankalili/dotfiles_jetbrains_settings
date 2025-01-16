@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1737037622212" />
+    </e>
+    <e n="$Undo">
+      <i c="6" l="1737037625402" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1737037576360" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="1" l="1737037571733" />
+    </e>
+  </component>
+</application>
