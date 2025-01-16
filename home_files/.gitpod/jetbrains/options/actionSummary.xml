@@ -7,16 +7,25 @@
       <i c="6" l="1737037625402" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2" l="1737037853203" />
+      <i c="4" l="1737040945935" />
+    </e>
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="1" l="1737040955903" />
     </e>
     <e n="ExternalSystem.RunTask">
       <i c="4" l="1737040935000" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1737040940420" />
     </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1737039993761" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1737039916835" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1737040948689" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="2" l="1737037765332" />
