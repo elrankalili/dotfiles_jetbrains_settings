@@ -12,6 +12,9 @@
     <e n="GitCheckoutAction">
       <i c="1" l="1737037972201" />
     </e>
+    <e n="OpenFile">
+      <i c="1" l="1737039916835" />
+    </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="2" l="1737037765332" />
     </e>
