@@ -12,11 +12,14 @@
     <e n="EditorBackSpace">
       <i c="4" l="1737040945935" />
     </e>
+    <e n="EditorCopy">
+      <i c="1" l="1737280932449" />
+    </e>
     <e n="ExternalSystem.RefreshAllProjects">
-      <i c="2" l="1737280921707" />
+      <i c="3" l="1737281029918" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="6" l="1737280899139" />
+      <i c="9" l="1737281012945" />
     </e>
     <e n="FindInPath">
       <i c="1" l="1737040940420" />
@@ -31,7 +34,7 @@
       <i c="1" l="1737040948689" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="1" l="1737280876203" />
+      <i c="3" l="1737281028746" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="2" l="1737037765332" />
