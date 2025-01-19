@@ -117,6 +117,9 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
     <attachedChunks>
@@ -137,7 +140,7 @@
       <workItem from="1737026097556" duration="86000" />
       <workItem from="1737037548360" duration="87000" />
       <workItem from="1737037679548" duration="1564000" />
-      <workItem from="1737275618336" duration="1893000" />
+      <workItem from="1737275618336" duration="2218000" />
     </task>
     <servers />
   </component>
