@@ -7,13 +7,16 @@
       <i c="6" l="1737037625402" />
     </e>
     <e n="Debug">
-      <i c="2" l="1737280858025" />
+      <i c="3" l="1737281172530" />
     </e>
     <e n="EditorBackSpace">
       <i c="4" l="1737040945935" />
     </e>
     <e n="EditorCopy">
       <i c="2" l="1737281047467" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1737281188945" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
       <i c="4" l="1737281070688" />
@@ -27,8 +30,17 @@
     <e n="GitCheckoutAction">
       <i c="2" l="1737039993761" />
     </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1737281307348" />
+    </e>
     <e n="OpenFile">
       <i c="1" l="1737039916835" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1737281094459" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="4" l="1737281249634" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1737040948689" />
