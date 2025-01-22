@@ -1,10 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="CompileProject">
+      <i c="1" l="1737541874045" />
+    </e>
     <e n="Debug">
-      <i c="1" l="1737541726660" />
+      <i c="3" l="1737541899517" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1" l="1737541793698" />
+      <i c="2" l="1737541922523" />
     </e>
     <e n="EditorCopy">
       <i c="5" l="1737541847975" />
@@ -22,7 +25,7 @@
       <i c="1" l="1737541593628" />
     </e>
     <e n="SaveAll">
-      <i c="2" l="1737541795700" />
+      <i c="3" l="1737541923000" />
     </e>
   </component>
 </application>
