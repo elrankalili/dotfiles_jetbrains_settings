@@ -1,7 +1,25 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Debug">
+      <i c="1" l="1737541726660" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1737541793698" />
+    </e>
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="1" l="1737541829534" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="4" l="1737541822159" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="2" l="1737541641247" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1737541593628" />
+    </e>
     <e n="SaveAll">
-      <i c="1" l="1737541575547" />
+      <i c="2" l="1737541795700" />
     </e>
   </component>
 </application>
