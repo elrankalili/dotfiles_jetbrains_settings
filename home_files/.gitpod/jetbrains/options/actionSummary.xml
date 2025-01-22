@@ -21,6 +21,9 @@
     <e n="ExternalSystem.RunTask">
       <i c="4" l="1737541822159" />
     </e>
+    <e n="Git.CompareWithBranch">
+      <i c="1" l="1737541949021" />
+    </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1737541641247" />
     </e>
@@ -28,13 +31,16 @@
       <i c="1" l="1737541593628" />
     </e>
     <e n="SaveAll">
-      <i c="4" l="1737541943795" />
+      <i c="5" l="1737541961437" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1737541928172" />
     </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+      <i c="1" l="1737541955436" />
+    </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1" l="1737541937502" />
+      <i c="2" l="1737541952387" />
     </e>
   </component>
 </application>

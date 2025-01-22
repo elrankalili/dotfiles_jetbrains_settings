@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737536284681</updated>
       <workItem from="1737536287238" duration="86000" />
-      <workItem from="1737541449946" duration="493000" />
+      <workItem from="1737541449946" duration="510000" />
     </task>
     <servers />
   </component>
