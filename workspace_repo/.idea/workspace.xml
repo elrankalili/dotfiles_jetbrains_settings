@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +57,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.hibob [:play.core.server.ProdServerStart.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;elran/add__is__effective__to__event&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/play-commons&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build hibob.executor": "Run",
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "elran/add__is__effective__to__event",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/play-commons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -86,7 +88,6 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
@@ -94,8 +95,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3305" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3305" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3305" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.3305" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
@@ -106,7 +108,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.33035713" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.33035713" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
   </component>
@@ -127,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737536284681</updated>
       <workItem from="1737536287238" duration="86000" />
-      <workItem from="1737541449946" duration="411000" />
+      <workItem from="1737541449946" duration="472000" />
     </task>
     <servers />
   </component>
