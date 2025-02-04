@@ -1,46 +1,88 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1737542931055" />
+    </e>
     <e n="$Undo">
       <i c="1" l="1737541942892" />
     </e>
+    <e n="Annotate">
+      <i c="1" l="1737554178686" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1737554158098" />
+    </e>
     <e n="CompileProject">
-      <i c="1" l="1737541874045" />
+      <i c="3" l="1737543037302" />
     </e>
     <e n="Debug">
-      <i c="3" l="1737541899517" />
+      <i c="13" l="1737543304751" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2" l="1737541922523" />
+      <i c="4" l="1737543393195" />
     </e>
     <e n="EditorCopy">
-      <i c="5" l="1737541847975" />
+      <i c="14" l="1737543533748" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1737542543324" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1737543392379" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="2" l="1737543383882" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
-      <i c="2" l="1737541857803" />
+      <i c="13" l="1737543431667" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="4" l="1737541822159" />
+      <i c="18" l="1737543736234" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1737543045022" />
     </e>
     <e n="Git.CompareWithBranch">
       <i c="1" l="1737541949021" />
     </e>
+    <e n="Git.Merge">
+      <i c="1" l="1737542487392" />
+    </e>
+    <e n="Git.Stash">
+      <i c="1" l="1737542539289" />
+    </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1737541641247" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="5" l="1737554146103" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1737543232884" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1737541593628" />
     </e>
     <e n="SaveAll">
-      <i c="5" l="1737541961437" />
+      <i c="6" l="1737543394030" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="1" l="1737541928172" />
+      <i c="3" l="1737542556823" />
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1737541955436" />
     </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="3" l="1737543502408" />
+    </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="2" l="1737541952387" />
+      <i c="3" l="1737543050929" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1737542931732" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="1" l="1737543021969" />
     </e>
   </component>
 </application>

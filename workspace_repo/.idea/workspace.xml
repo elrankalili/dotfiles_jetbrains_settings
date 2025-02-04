@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
-    </list>
+    <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,11 +92,11 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3305" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3305" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.3305" />
-      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.3305" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="7" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -111,6 +109,7 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
   </component>
+  <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,6 +128,7 @@
       <updated>1737536284681</updated>
       <workItem from="1737536287238" duration="86000" />
       <workItem from="1737541449946" duration="510000" />
+      <workItem from="1738701683731" duration="19000" />
     </task>
     <servers />
   </component>
