@@ -94,9 +94,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3305" />
       <window_info anchor="bottom" id="Services" order="7" />
       <window_info anchor="right" id="sbt" />
@@ -110,6 +110,9 @@
       <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.33035713" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
@@ -131,7 +134,7 @@
       <workItem from="1737536287238" duration="86000" />
       <workItem from="1737541449946" duration="510000" />
       <workItem from="1738701683731" duration="19000" />
-      <workItem from="1738742368039" duration="1386000" />
+      <workItem from="1738742368039" duration="2833000" />
     </task>
     <servers />
   </component>
