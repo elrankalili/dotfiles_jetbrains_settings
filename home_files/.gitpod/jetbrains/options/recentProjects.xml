@@ -2,26 +2,10 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="/workspace/play-commons">
-          <value>
-            <RecentProjectMetaInfo frameTitle="play-commons" projectWorkspaceId="2ryqNX5b5zyh7DSKOSZ8Bnjmd8E">
-              <option name="activationTimestamp" value="1737554106313" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-243.23654.117" />
-              <option name="buildTimestamp" value="1737003600000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="164" y="77" width="1400" height="1000" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1737543317982" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/workspace/hibob">
           <value>
             <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2ryfYiUxFgToedkUq3n431a5qLD">
-              <option name="activationTimestamp" value="1738702018224" />
+              <option name="activationTimestamp" value="1738746211772" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
@@ -30,13 +14,29 @@
               </option>
               <frame x="164" y="77" width="1400" height="1000" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1738701682394" />
+              <option name="projectOpenTimestamp" value="1738742366324" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/play-commons">
+          <value>
+            <RecentProjectMetaInfo frameTitle="play-commons" opened="true" projectWorkspaceId="2ryqNX5b5zyh7DSKOSZ8Bnjmd8E">
+              <option name="activationTimestamp" value="1738746235966" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.117" />
+              <option name="buildTimestamp" value="1737003600000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="164" y="77" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738746222426" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/hibob" />
+    <option name="lastOpenedProject" value="/workspace/play-commons" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>
