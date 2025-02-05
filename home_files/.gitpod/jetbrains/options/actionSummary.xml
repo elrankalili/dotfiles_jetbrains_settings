@@ -19,7 +19,7 @@
       <i c="13" l="1737543304751" />
     </e>
     <e n="EditorBackSpace">
-      <i c="7" l="1738746179155" />
+      <i c="8" l="1738746670255" />
     </e>
     <e n="EditorCopy">
       <i c="14" l="1737543533748" />
@@ -31,7 +31,7 @@
       <i c="1" l="1737543392379" />
     </e>
     <e n="EditorPaste">
-      <i c="1" l="1738746214151" />
+      <i c="3" l="1738746273417" />
     </e>
     <e n="EditorSelectWord">
       <i c="2" l="1737543383882" />
@@ -55,7 +55,7 @@
       <i c="1" l="1737542539289" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="3" l="1738746215437" />
+      <i c="4" l="1738746275001" />
     </e>
     <e n="GotoDeclaration">
       <i c="5" l="1737554146103" />
@@ -67,10 +67,10 @@
       <i c="1" l="1737541593628" />
     </e>
     <e n="SaveAll">
-      <i c="6" l="1737543394030" />
+      <i c="7" l="1738746672406" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="4" l="1738746182156" />
+      <i c="5" l="1738746268302" />
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1737541955436" />

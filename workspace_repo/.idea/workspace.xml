@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="" />
+    <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,8 +81,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33035713" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33035713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.33035713" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -129,7 +131,7 @@
       <workItem from="1737536287238" duration="86000" />
       <workItem from="1737541449946" duration="510000" />
       <workItem from="1738701683731" duration="19000" />
-      <workItem from="1738742368039" duration="874000" />
+      <workItem from="1738742368039" duration="1364000" />
     </task>
     <servers />
   </component>
