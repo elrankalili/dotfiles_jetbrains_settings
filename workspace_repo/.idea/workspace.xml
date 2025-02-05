@@ -107,7 +107,7 @@
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.33035713" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.33035713" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1737536287238" duration="86000" />
       <workItem from="1737541449946" duration="510000" />
       <workItem from="1738701683731" duration="19000" />
-      <workItem from="1738742368039" duration="1364000" />
+      <workItem from="1738742368039" duration="1386000" />
     </task>
     <servers />
   </component>
