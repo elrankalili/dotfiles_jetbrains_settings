@@ -4,14 +4,15 @@
       <map>
         <entry key="/workspace/hibob">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2sfTAfeBO1XDXuQpU77iPrfkyml">
-              <option name="activationTimestamp" value="1738852480269" />
+            <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2sfTAfeBO1XDXuQpU77iPrfkyml">
+              <option name="activationTimestamp" value="1738852659034" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
+              <frame x="179" y="83" width="1400" height="1000" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1738852403186" />
             </RecentProjectMetaInfo>
@@ -19,14 +20,15 @@
         </entry>
         <entry key="/workspace/play-commons">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2sfhLTZeEvu4cjqN7vTk2zkTNyc">
-              <option name="activationTimestamp" value="1738852483383" />
+            <RecentProjectMetaInfo frameTitle="play-commons" opened="true" projectWorkspaceId="2sfhLTZeEvu4cjqN7vTk2zkTNyc">
+              <option name="activationTimestamp" value="1738852816695" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
+              <frame x="242" y="25" width="1400" height="1000" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1738852480547" />
             </RecentProjectMetaInfo>

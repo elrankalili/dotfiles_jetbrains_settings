@@ -1,7 +1,10 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="EditorBackSpace">
-      <i c="6" l="1738852514623" />
+      <i c="15" l="1738852827623" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="1" l="1738852656737" />
     </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1738852524726" />
@@ -14,6 +17,9 @@
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1738852452740" />
+    </e>
+    <e n="performancePlugin.ShowMemoryDialogAction">
+      <i c="1" l="1738852810213" />
     </e>
   </component>
 </application>
