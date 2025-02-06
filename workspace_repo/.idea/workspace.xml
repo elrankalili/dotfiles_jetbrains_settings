@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="" />
+    <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,104 +15,22 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="hibob" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="elran/add_is_effective_to_event" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2ryfYiUxFgToedkUq3n431a5qLD" />
+  <component name="ProjectId" id="2sfTAfeBO1XDXuQpU77iPrfkyml" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Gradle.Build hibob.executor": "Run",
-    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "elran/event__adding__attributes__to__envelopes",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/workspace/play-commons",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
-    <layout>
-      <window_info id="Bookmarks" side_tool="true" />
-      <window_info id="Merge Requests" />
-      <window_info id="Commit_Guest" show_stripe_button="false" />
-      <window_info id="Pull Requests" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33035713" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33035713" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="bottom" id="internal-profiler" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Build" order="4" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.3305" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3305" />
-      <window_info anchor="bottom" id="Services" order="7" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Endpoints" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="right" id="Beans" />
-      <window_info anchor="right" id="bsp" />
-      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.33035713" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-    </layout>
-  </component>
-  <component name="ReactorSettings">
-    <option name="notificationShown" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -124,23 +42,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="599694dc-48ea-4ca8-a828-f5130933e451" name="Changes" comment="" />
-      <created>1737536284681</created>
+      <changelist id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="" />
+      <created>1738845488372</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737536284681</updated>
-      <workItem from="1737536287238" duration="86000" />
-      <workItem from="1737541449946" duration="510000" />
-      <workItem from="1738701683731" duration="19000" />
-      <workItem from="1738742368039" duration="3791000" />
+      <updated>1738845488372</updated>
+      <workItem from="1738845490828" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
