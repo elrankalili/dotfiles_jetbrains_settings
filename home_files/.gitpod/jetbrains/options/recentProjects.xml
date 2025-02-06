@@ -5,7 +5,7 @@
         <entry key="/workspace/hibob">
           <value>
             <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2sfTAfeBO1XDXuQpU77iPrfkyml">
-              <option name="activationTimestamp" value="1738852659034" />
+              <option name="activationTimestamp" value="1738852990526" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
@@ -14,14 +14,14 @@
               </option>
               <frame x="179" y="83" width="1400" height="1000" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1738852403186" />
+              <option name="projectOpenTimestamp" value="1738852847574" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="/workspace/play-commons">
           <value>
             <RecentProjectMetaInfo frameTitle="play-commons" opened="true" projectWorkspaceId="2sfhLTZeEvu4cjqN7vTk2zkTNyc">
-              <option name="activationTimestamp" value="1738852816695" />
+              <option name="activationTimestamp" value="1738852972493" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
@@ -30,13 +30,13 @@
               </option>
               <frame x="242" y="25" width="1400" height="1000" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1738852480547" />
+              <option name="projectOpenTimestamp" value="1738852872364" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/play-commons" />
+    <option name="lastOpenedProject" value="/workspace/hibob" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>

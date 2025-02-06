@@ -1,10 +1,10 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="EditorBackSpace">
-      <i c="15" l="1738852827623" />
+      <i c="17" l="1738853005737" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="1" l="1738852656737" />
+      <i c="4" l="1738852944504" />
     </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1738852524726" />
@@ -13,10 +13,13 @@
       <i c="1" l="1738852468449" />
     </e>
     <e n="SaveAll">
-      <i c="1" l="1738852515603" />
+      <i c="3" l="1738853006318" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1738852452740" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1738852872082" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="1" l="1738852810213" />
