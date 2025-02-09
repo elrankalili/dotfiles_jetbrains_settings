@@ -19,7 +19,7 @@
       <i c="9" l="1739107089758" />
     </e>
     <e n="EditorBackSpace">
-      <i c="136" l="1739107071045" />
+      <i c="137" l="1739107111958" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="7" l="1738854569135" />
@@ -46,16 +46,16 @@
       <i c="2" l="1738854831530" />
     </e>
     <e n="EditorSelectWord">
-      <i c="58" l="1738854929903" />
+      <i c="59" l="1739107268112" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
-      <i c="4" l="1738853333869" />
+      <i c="5" l="1739107270199" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="10" l="1739107008528" />
+      <i c="12" l="1739107122735" />
     </e>
     <e n="FindInPath">
-      <i c="22" l="1738854926595" />
+      <i c="23" l="1739107260565" />
     </e>
     <e n="Forward">
       <i c="3" l="1738854207713" />
@@ -85,7 +85,7 @@
       <i c="1" l="1738854185647" />
     </e>
     <e n="SaveAll">
-      <i c="11" l="1739106907649" />
+      <i c="12" l="1739107112960" />
     </e>
     <e n="Stop">
       <i c="1" l="1738854202685" />
@@ -100,7 +100,7 @@
       <i c="7" l="1738854142506" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="14" l="1738854793940" />
+      <i c="15" l="1739107264003" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="2" l="1739106894116" />
