@@ -1,5 +1,6 @@
 <application>
   <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_SDK" value="temurin-17" />
     <option name="COMPILE_SERVER_ID" value="b4449a35-9420-41b4-96e9-3fc2084abb93" />
   </component>
 </application>
