@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/history/EmployeeModelUpdateService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/history/EmployeeModelUpdateService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/history/HistoryPartService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/history/HistoryPartService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomCategoryRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomCategoryRequestE2ETest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomTableRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomTableRequestE2ETest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeOOTBTableRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeOOTBTableRequestE2ETest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/publisher/sns/impl/MainTopicEventsSnsPublisherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/publisher/sns/impl/EmployeeDataTopicEventsSnsPublisherTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/helpers/MockedPublisher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/helpers/MockedPublisher.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +60,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;elran/event__adding__data&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/play-commons&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.hibob [:play.core.server.ProdServerStart.main()].executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "elran/event__adding__data",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/play-commons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
       <window_info id="Merge Requests" />
+      <window_info id="Welcome to GitHub Copilot" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -84,11 +99,14 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3305" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="github.copilotToolWindow" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="GitHub Copilot Chat" />
       <window_info anchor="right" id="Beans" />
       <window_info anchor="right" id="bsp" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
@@ -118,6 +136,7 @@
       <workItem from="1738845490828" duration="79000" />
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
+      <workItem from="1739106389580" duration="503000" />
     </task>
     <servers />
   </component>
