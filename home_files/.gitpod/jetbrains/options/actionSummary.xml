@@ -16,10 +16,10 @@
       <i c="13" l="1738854214425" />
     </e>
     <e n="Debug">
-      <i c="9" l="1739107089758" />
+      <i c="10" l="1739108008264" />
     </e>
     <e n="EditorBackSpace">
-      <i c="140" l="1739107898327" />
+      <i c="141" l="1739108058989" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="7" l="1738854569135" />
@@ -49,13 +49,13 @@
       <i c="59" l="1739107268112" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
-      <i c="5" l="1739107270199" />
+      <i c="6" l="1739108066597" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="12" l="1739107122735" />
+      <i c="15" l="1739107937794" />
     </e>
     <e n="FindInPath">
-      <i c="24" l="1739107881684" />
+      <i c="26" l="1739108054877" />
     </e>
     <e n="Forward">
       <i c="3" l="1738854207713" />
@@ -85,10 +85,10 @@
       <i c="2" l="1739107869669" />
     </e>
     <e n="SaveAll">
-      <i c="13" l="1739107899300" />
+      <i c="14" l="1739108059676" />
     </e>
     <e n="Stop">
-      <i c="1" l="1738854202685" />
+      <i c="5" l="1739108060647" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="4" l="1739107081393" />
@@ -100,13 +100,13 @@
       <i c="9" l="1739107636177" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="15" l="1739107264003" />
+      <i c="16" l="1739108056091" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="2" l="1739106894116" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="43" l="1739107883182" />
+      <i c="44" l="1739107984300" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="7" l="1738854862776" />
