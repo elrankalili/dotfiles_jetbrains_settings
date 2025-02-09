@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/history/EmployeeModelUpdateService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/history/EmployeeModelUpdateService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/history/HistoryPartService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/history/HistoryPartService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomCategoryRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomCategoryRequestE2ETest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomTableRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeCustomTableRequestE2ETest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/EmployeeOOTBTableRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/EmployeeOOTBTableRequestE2ETest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/events/publisher/sns/impl/MainTopicEventsSnsPublisherTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/events/publisher/sns/impl/EmployeeDataTopicEventsSnsPublisherTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/hibob/helpers/MockedPublisher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/helpers/MockedPublisher.scala" afterDir="false" />
-    </list>
+    <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="elran/event_adding_data" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "elran/event__adding__data",
+    "git-widget-placeholder": "elran/event__adding__utils",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/play-commons",
     "node.js.detected.package.eslint": "true",
@@ -100,7 +86,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3305" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3305" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3305" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -115,6 +101,9 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RunManager" selected="Application.Bob Localhost" />
   <component name="SharedIndexes">
@@ -136,7 +125,7 @@
       <workItem from="1738845490828" duration="79000" />
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
-      <workItem from="1739106389580" duration="503000" />
+      <workItem from="1739106389580" duration="700000" />
     </task>
     <servers />
   </component>

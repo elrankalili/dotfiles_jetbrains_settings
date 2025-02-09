@@ -10,7 +10,7 @@
       <i c="1" l="1738854845589" />
     </e>
     <e n="$Undo">
-      <i c="2" l="1738854843360" />
+      <i c="3" l="1739106944868" />
     </e>
     <e n="Back">
       <i c="13" l="1738854214425" />
@@ -19,7 +19,7 @@
       <i c="8" l="1739106863725" />
     </e>
     <e n="EditorBackSpace">
-      <i c="121" l="1738854930706" />
+      <i c="136" l="1739107071045" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="7" l="1738854569135" />
@@ -52,7 +52,7 @@
       <i c="4" l="1738853333869" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="6" l="1738853313541" />
+      <i c="10" l="1739107008528" />
     </e>
     <e n="FindInPath">
       <i c="22" l="1738854926595" />
@@ -67,7 +67,7 @@
       <i c="6" l="1738854248714" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="2" l="1738852524726" />
+      <i c="3" l="1739107075155" />
     </e>
     <e n="GotoDeclaration">
       <i c="11" l="1738854203874" />
@@ -85,13 +85,13 @@
       <i c="1" l="1738854185647" />
     </e>
     <e n="SaveAll">
-      <i c="10" l="1738854931454" />
+      <i c="11" l="1739106907649" />
     </e>
     <e n="Stop">
       <i c="1" l="1738854202685" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="2" l="1738853260867" />
+      <i c="4" l="1739107081393" />
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1738853507360" />
@@ -103,7 +103,7 @@
       <i c="14" l="1738854793940" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="1" l="1738852872082" />
+      <i c="2" l="1739106894116" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="42" l="1738854336375" />
