@@ -4,7 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="" />
+    <list default="true" id="e1e9e017-62ee-4814-9772-cb30167b62de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/employee/data/retention/EmployeeDataRetentionService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/migrationWizard/JCProfilesPageRemoteViewType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/JobHierarchyProviderFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_migration/src/main/resources/migration/v1/V202502061050__update_demo_avatars_urls2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/db/migration/default/202502/V202502041151__create_status_index_on_training_content_entity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/JobHierarchyProviderFactoryTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/hibob/workflows/e2e/Examples.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/hibob/workflows/e2e/WorkflowCreationE2ETest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitpod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/custom/DashboardController.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardEnricher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/dashboard/DashboardEnricher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/audit/AuditReasons.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/audit/AuditReasons.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/field/ReportFieldMetadata.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/field/ReportFieldMetadata.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/StaticTableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/StaticTableApi.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/actors/TableEntryEnvelope.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/actors/TableEntryEnvelope.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/jobs/EmployeeComplianceJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/jobs/EmployeeComplianceJob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureController.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureRouter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureRouter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/migrations/JobProfileAutoGeneratedTitleWriterMigrationRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/migrations/JobProfileAutoGeneratedTitleWriterMigrationRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyGroupReferenceListProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyGroupReferenceListProvider.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyReferenceListProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyReferenceListProvider.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobHierarchyBaseReferenceListProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobHierarchyBaseReferenceListProvider.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobRoleReferenceListProvider.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobRoleReferenceListProvider.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/settings/OotbJobHierarchyBaseAsListSettings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/settings/OotbJobHierarchyBaseAsListSettings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/validations/jobhierarchy/JobFamilyHierarchyBaseValidationSupplier.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/suppliers/validations/jobhierarchy/JobFamilyHierarchyBaseValidationSupplier.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/DashboardsMoveIsMasterFilterAppliedMigrationRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/migrations/ScheduledMigrationModule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/migrations/demoAvatarUrlMigrationRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/notifications/emails/EmailNotificationsQueue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/notifications/emails/EmailNotificationsQueue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/security/iam/settings/domains/WorkflowsSettings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/security/iam/settings/domains/WorkflowsSettings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/timeattendance/summary/AttendanceCommonFetcherService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/timeattendance/summary/AttendanceCommonFetcherService.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/timeoff/policy/noticetime/models.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/timeoff/policy/noticetime/models.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/utils/JsonUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/utils/JsonUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/utils/Orderings.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/utils/Orderings.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/views/types/FeatureViewFetchersModule.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/views/types/FeatureViewFetchersModule.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/workflows/FoldersAuthorizationDaoUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/workflows/FoldersAuthorizationDaoUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/workflows/TasksFetcherDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/workflows/TasksFetcherDao.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/workflows/folder/FolderAuthorization.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/workflows/folder/FolderAuthorization.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/employee/change/EmployeeImagesDaoTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/employee/change/EmployeeImagesDaoTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportServiceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportServiceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/jobcatalog/newJobArchitecture/migrations/JobProfileAutoGeneratedTitleWriterMigrationRunnerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/integrationTest/scala/com/hibob/jobcatalog/newJobArchitecture/migrations/JobProfileAutoGeneratedTitleWriterMigrationRunnerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformerTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/employee/compliance/EmployeeComplianceProcessorLiteTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/employee/compliance/EmployeeComplianceProcessorLiteTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyGroupReferenceListProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyGroupReferenceListProviderTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyReferenceListProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobFamilyReferenceListProviderTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobRoleReferenceListProviderTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/JobRoleReferenceListProviderTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/suppliers/listproviders/jobhierarchy/draft/JobCatalogDraftsServiceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/jobcatalog/newJobArchitecture/draft/JobCatalogDraftsServiceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/migrations/demoAvatarUrlMigrationRunnerTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeattendance/myAttendance/TimeOffEntryHelper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeattendance/myAttendance/TimeOffEntryHelper.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeattendance/summary/AttendanceCommonFetcherServiceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeattendance/summary/AttendanceCommonFetcherServiceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeattendance/summary/DailyAttendanceEntryTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeattendance/summary/DailyAttendanceEntryTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeattendance/teamAttendance/TimeAttendanceCommonFetcherServiceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeattendance/teamAttendance/TimeAttendanceCommonFetcherServiceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeoff/policy/noticetime/NoticeTimeServiceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeoff/policy/noticetime/NoticeTimeServiceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/timeoff/request/TimeoffRequestE2ETest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/timeoff/request/TimeoffRequestE2ETest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/hibob/utils/OrderingTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/hibob/utils/OrderingTest.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +120,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "elran/event__adding__data",
+    "git-widget-placeholder": "Merging elran/event__adding__data",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/play-commons",
     "node.js.detected.package.eslint": "true",
@@ -128,12 +195,23 @@
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
       <workItem from="1739106389580" duration="2375000" />
-      <workItem from="1739183051879" duration="149000" />
+      <workItem from="1739183051879" duration="1169000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/app/com/hibob/events/publisher/sns/impl/EmployeeDataTopicEventsSnsPublisher.scala</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
