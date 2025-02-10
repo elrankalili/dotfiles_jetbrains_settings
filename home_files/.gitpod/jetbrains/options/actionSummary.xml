@@ -4,7 +4,7 @@
       <i c="2" l="1738854284522" />
     </e>
     <e n="$Delete">
-      <i c="1" l="1739108401788" />
+      <i c="3" l="1739108934839" />
     </e>
     <e n="$Paste">
       <i c="2" l="1738854285476" />
@@ -13,58 +13,64 @@
       <i c="1" l="1738854845589" />
     </e>
     <e n="$Undo">
-      <i c="3" l="1739106944868" />
+      <i c="8" l="1739114654106" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1739113882075" />
     </e>
     <e n="Back">
-      <i c="13" l="1738854214425" />
+      <i c="17" l="1739114480214" />
     </e>
     <e n="Debug">
-      <i c="12" l="1739108383816" />
+      <i c="13" l="1739109000053" />
     </e>
     <e n="EditorBackSpace">
-      <i c="141" l="1739108058989" />
+      <i c="169" l="1739114722301" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="7" l="1738854569135" />
     </e>
     <e n="EditorCopy">
-      <i c="18" l="1739106592484" />
+      <i c="37" l="1739114666017" />
     </e>
     <e n="EditorCut">
-      <i c="5" l="1738854563341" />
+      <i c="6" l="1739114576342" />
     </e>
     <e n="EditorDeleteLine">
       <i c="2" l="1738854909950" />
     </e>
     <e n="EditorEnter">
-      <i c="1" l="1738854210477" />
+      <i c="6" l="1739114582523" />
     </e>
     <e n="EditorLeft">
       <i c="5" l="1738854833933" />
     </e>
     <e n="EditorPaste">
-      <i c="21" l="1738854925943" />
+      <i c="28" l="1739114670339" />
     </e>
     <e n="EditorRight">
       <i c="2" l="1738854831530" />
     </e>
     <e n="EditorSelectWord">
-      <i c="59" l="1739107268112" />
+      <i c="96" l="1739114721650" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
       <i c="6" l="1739108066597" />
     </e>
     <e n="ExternalSystem.RunTask">
-      <i c="15" l="1739107937794" />
+      <i c="18" l="1739109291487" />
     </e>
     <e n="FindInPath">
-      <i c="26" l="1739108054877" />
+      <i c="27" l="1739114356722" />
+    </e>
+    <e n="FindUsages">
+      <i c="6" l="1739114510335" />
     </e>
     <e n="Forward">
       <i c="3" l="1738854207713" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="4" l="1738855203098" />
+      <i c="5" l="1739113916102" />
     </e>
     <e n="Git.CompareWithBranch">
       <i c="6" l="1738854248714" />
@@ -85,10 +91,13 @@
       <i c="5" l="1738854883895" />
     </e>
     <e n="Rerun">
-      <i c="2" l="1739107869669" />
+      <i c="5" l="1739109325323" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1739108944101" />
     </e>
     <e n="SaveAll">
-      <i c="14" l="1739108059676" />
+      <i c="16" l="1739113883993" />
     </e>
     <e n="Stop">
       <i c="6" l="1739108379500" />
@@ -102,8 +111,14 @@
     <e n="com.intellij.execution.actions.ClearConsoleAction">
       <i c="10" l="1739108654906" />
     </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1739114738325" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1739108999175" />
+    </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="16" l="1739108056091" />
+      <i c="17" l="1739114364234" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="2" l="1739106894116" />
@@ -112,7 +127,7 @@
       <i c="44" l="1739107984300" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="7" l="1738854862776" />
+      <i c="8" l="1739108935849" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1739108175254" />
