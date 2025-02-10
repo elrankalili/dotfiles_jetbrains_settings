@@ -27,10 +27,12 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeService.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/jobs/EmployeeComplianceJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/jobs/EmployeeComplianceJob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/history/MultiCurrentHistoryServiceWithSync.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureController.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureRouter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/JobCatalogNewArchitectureRouter.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/jobcatalog/newJobArchitecture/importer/jobprofile/JobProfileUpdateImportService.scala" afterDir="false" />
@@ -197,7 +199,7 @@
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
       <workItem from="1739106389580" duration="2375000" />
-      <workItem from="1739183051879" duration="1655000" />
+      <workItem from="1739183051879" duration="1680000" />
     </task>
     <servers />
   </component>
