@@ -19,11 +19,14 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/analytics/kpis/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/audit/AuditReasons.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/audit/AuditReasons.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/field/ReportFieldMetadata.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/field/ReportFieldMetadata.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/EmployeeCurrentEntrySyncer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/StaticTableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/StaticTableApi.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/TableApi.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/kids/EmployeeKidsService.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/EmployeeCreator.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" afterDir="false" />
@@ -194,7 +197,7 @@
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
       <workItem from="1739106389580" duration="2375000" />
-      <workItem from="1739183051879" duration="1486000" />
+      <workItem from="1739183051879" duration="1655000" />
     </task>
     <servers />
   </component>

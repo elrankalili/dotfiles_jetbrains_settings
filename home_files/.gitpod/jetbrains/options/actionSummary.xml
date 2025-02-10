@@ -13,7 +13,7 @@
       <i c="1" l="1738854845589" />
     </e>
     <e n="$Undo">
-      <i c="8" l="1739114654106" />
+      <i c="9" l="1739189279772" />
     </e>
     <e n="Annotate">
       <i c="1" l="1739113882075" />
@@ -25,16 +25,16 @@
       <i c="14" l="1739188949507" />
     </e>
     <e n="EditorBackSpace">
-      <i c="170" l="1739183178594" />
+      <i c="186" l="1739189316599" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="7" l="1738854569135" />
+      <i c="8" l="1739189264192" />
     </e>
     <e n="EditorCopy">
-      <i c="37" l="1739114666017" />
+      <i c="38" l="1739189265725" />
     </e>
     <e n="EditorCut">
-      <i c="7" l="1739188898721" />
+      <i c="8" l="1739189255370" />
     </e>
     <e n="EditorDeleteLine">
       <i c="2" l="1738854909950" />
@@ -46,13 +46,13 @@
       <i c="5" l="1738854833933" />
     </e>
     <e n="EditorPaste">
-      <i c="28" l="1739114670339" />
+      <i c="34" l="1739189302998" />
     </e>
     <e n="EditorRight">
       <i c="2" l="1738854831530" />
     </e>
     <e n="EditorSelectWord">
-      <i c="96" l="1739114721650" />
+      <i c="111" l="1739189312898" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
       <i c="6" l="1739108066597" />
@@ -61,7 +61,7 @@
       <i c="18" l="1739109291487" />
     </e>
     <e n="FindInPath">
-      <i c="27" l="1739114356722" />
+      <i c="31" l="1739189305050" />
     </e>
     <e n="FindUsages">
       <i c="6" l="1739114510335" />
@@ -97,7 +97,7 @@
       <i c="2" l="1739108944101" />
     </e>
     <e n="SaveAll">
-      <i c="16" l="1739113883993" />
+      <i c="17" l="1739189318168" />
     </e>
     <e n="Stop">
       <i c="6" l="1739108379500" />
@@ -121,7 +121,7 @@
       <i c="1" l="1739108999175" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="17" l="1739114364234" />
+      <i c="20" l="1739189298634" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="2" l="1739106894116" />
@@ -130,13 +130,13 @@
       <i c="67" l="1739188939449" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="8" l="1739108935849" />
+      <i c="9" l="1739189303984" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1739188824098" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="41" l="1738854792767" />
+      <i c="48" l="1739189307877" />
     </e>
     <e n="editRunConfigurations">
       <i c="1" l="1739108165076" />
