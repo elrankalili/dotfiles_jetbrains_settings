@@ -22,7 +22,7 @@
       <i c="17" l="1739114480214" />
     </e>
     <e n="Debug">
-      <i c="13" l="1739109000053" />
+      <i c="14" l="1739188949507" />
     </e>
     <e n="EditorBackSpace">
       <i c="170" l="1739183178594" />
@@ -34,7 +34,7 @@
       <i c="37" l="1739114666017" />
     </e>
     <e n="EditorCut">
-      <i c="6" l="1739114576342" />
+      <i c="7" l="1739188898721" />
     </e>
     <e n="EditorDeleteLine">
       <i c="2" l="1738854909950" />
@@ -102,8 +102,11 @@
     <e n="Stop">
       <i c="6" l="1739108379500" />
     </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1739183431278" />
+    </e>
     <e n="Vcs.UpdateProject">
-      <i c="4" l="1739107081393" />
+      <i c="5" l="1739183450075" />
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1738853507360" />
@@ -124,13 +127,13 @@
       <i c="2" l="1739106894116" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="44" l="1739107984300" />
+      <i c="67" l="1739188939449" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="8" l="1739108935849" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="1" l="1739108175254" />
+      <i c="2" l="1739188824098" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="41" l="1738854792767" />

@@ -24,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/company/metadata/table/custom/CustomTableApi.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/FieldTransformer.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/compliance/fieldTransformer/transformers/ScrambleFieldTransformer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/actors/TableEntryEnvelope.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/actors/TableEntryEnvelope.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/change/EmployeeImagesDao.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceHandler.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/com/hibob/employee/compliance/EmployeeComplianceProcessor.scala" afterDir="false" />
@@ -153,9 +152,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.30650002" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.30650002" />
       <window_info anchor="bottom" id="Build" order="4" weight="0.30650002" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.30601853" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.30650002" />
       <window_info anchor="bottom" id="Services" order="6" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -195,7 +194,7 @@
       <workItem from="1738852404665" duration="427000" />
       <workItem from="1738852849083" duration="158000" />
       <workItem from="1739106389580" duration="2375000" />
-      <workItem from="1739183051879" duration="1169000" />
+      <workItem from="1739183051879" duration="1486000" />
     </task>
     <servers />
   </component>
